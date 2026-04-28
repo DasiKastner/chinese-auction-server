@@ -73,7 +73,6 @@ Lottery
 ### שלבים להרצה
 
 1. שיחזור בסיס הנתונים (או הרצת migrations):
-```bash
 Update-Database
 2. פתיחת הפרויקט ב־Visual Studio
 3. הרצת השרת:
